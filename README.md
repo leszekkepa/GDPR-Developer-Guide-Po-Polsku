@@ -1,11 +1,11 @@
 <p align="center"><img src="https://github.com/LINCnil/GDPR-Developer-Guide/raw/master/templates/BANNIERE-EN.JPG" width="100%" align="middle"></p>
 
 
-# GDPR Developer Guide
+# RODO-Poradnik dla Programistów
 
-#### In order to assist web and application developers in making their work GDPR-compliant, the CNIL has drawn up a new guide to best practices under an open source license, which is intended to be enriched by professionals.
+#### Oto poradnik, który ma pomóc twórcom stron internetowych i aplikacji w zapewnieniu zgodności z RODO i z przepisami, na bazie Poradnika CNIL przygotowaliśmy przewodnik po dobrych praktykach. Jest tp luźny przekład Poradnika przygotowanego przez francuski organ nadzorczy CNIL uzupełniony o kwestie związane z polską specyfiką - przepisami, kontekstem, etc. Oryginalny poradnik dostępny jest w Github [pod tym adresem](https://github.com/LINCnil/GDPR-Developer-Guide).
 
-This guide is published under [license GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and under [open license 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) (explicitly compatible with [CC-BY 4.0 FR](https://creativecommons.org/licenses/by/4.0/deed.fr)). You can freely contribute to its redaction.
+Ponieważ pierwotny poradnik był na licencji [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) and under [open license 2.0](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf) (explicitly compatible with [CC-BY 4.0 FR](https://creativecommons.org/licenses/by/4.0/deed.fr)). You can freely contribute to its redaction.
 
 The [French version](https://github.com/LINCnil/Guide-RGPD-du-developpeur) is the authentic version of this guide. An Italian version of this guide is also available [in pdf](https://github.com/LINCnil/GDPR-Developer-Guide/releases/tag/V1.0) and [for contributions](https://github.com/LINCnil/GDPR-Developer-Guide/tree/it).
 
