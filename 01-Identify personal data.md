@@ -1,9 +1,9 @@
 # Sheet n°1: Zidentyfikuj dane osobowe
 
-#### Zrozumienie czym są pojęcia takie jak "dane osobowe", "cel przetwarzania" i "przetwarzanie" jest niezbędne, by zapewnić zgodność z przepisami o ochronie danych osobowych. W szczególności trzeba uważać, aby  nie pomylić "anonimizacji" i "pseudonimizacji", które w RODO mają odmienne znaczenia.
+#### Zrozumienie czym są pojęcia takie jak "dane osobowe", "cel przetwarzania" i "przetwarzanie" jest niezbędne, by móc w ogóle mówić o zapewnieniu zgodność z przepisami o ochronie danych osobowych. W szczególności trzeba uważać, aby  nie pomylić "anonimizacji" i "pseudonimizacji", które w RODO mają odmienne znaczenia. Znajomość podstawowych pojęć jest niezbędna.
 
 ## Definicje
-* Określenie **dane osobowe** definiuje [Ogólne Rozporządzenie o Ochronie Danych](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32016R0679) (RODO) jako "[any information relating to an identified or identifiable natural person (referred to as "data subject")](https://www.cnil.fr/en/personal-data-definition)". It covers a broad scope that includes both directly identifying data (e.g. first and last name) and indirectly identifying data (e.g. telephone number, license plate, terminal identifier, etc.).
+* Określenie **dane osobowe** definiuje [Ogólne Rozporządzenie o Ochronie Danych](https://eur-lex.europa.eu/legal-content/PL/TXT/?uri=CELEX%3A32016R0679) (RODO) jako "informacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej" (określane często jako "informacje o osobie, której dotyczą". Obejmuje on szeroki zakresdanych, w którym mieszczą się zarówno dane bezpośrednio identyfikujące osobę (np. imię i nazwisko, fotografia), jak i dane pośrednio identyfikujące (np. numer telefonu, tablica rejestracyjna, identyfikator terminala itp.)
 
 * Any operation on this type of data (collection, recording, transmission, modification, dissemination, etc.) constitutes **processing within the meaning of the GDPR** and must therefore meet the requirements laid down by that regulation. Such processing operations must be lawful and have a specified purpose. The personal data collected and processed must be relevant and limited to what is strictly necessary to achieve the purpose.
 
