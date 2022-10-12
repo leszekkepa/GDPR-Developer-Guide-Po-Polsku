@@ -1,6 +1,8 @@
-# Sheet n°0: Develop in compliance with the GDPR
+# Sheet n°0: Twórz rozwiązania zgodnie z przepisami o ochronie danych osobowych (RODO)
 
-#### Whether you work alone, are part of a team developing a project, manage a development team, or are a service provider carrying out developments for third parties, it is essential to ensure that user data and all personal data processing are sufficiently protected throughout the lifecycle of the project.
+#### Niezależnie od tego, czy pracujesz samodzielnie, jesteś członkiem zespołu opracowującego projekt, zarządzasz zespołem opracowującym projekt, czy jesteś usługodawcą realizującym projekty dla osób trzecich, musisz zadbać o to, by dane użytkowników i wszystkie przetwarzane dane osobowe były odpowiednio chronione w całym cyklu życia projektu. 
+
+### Właściwie to chodzi o osoby, i ich ochronę w związku z przetwarzaniem danych osobowych. Ale to mój luźny komentarz :-)
 
 The following steps will help you in developing privacy-friendly applications or websites:
 
