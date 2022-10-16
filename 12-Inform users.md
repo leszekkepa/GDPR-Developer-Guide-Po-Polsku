@@ -1,10 +1,10 @@
 # Sheet n°12: Inform users
 
-#### The transparency principle of the GDPR requires that any information or communication relating to the processing of personal data should be concise, transparent, comprehensible and easily accessible in plain and simple language.
+#### Zasada przejrzystości GDPR wymaga, aby użytkownika poinformowac o tym m.in. po co, przez kogo, jak fługo informacje o nim będą przetwarzane, aby przetwarzanie dla niego było jasne i przejrzyste. Aby ten cel osiągnąć wszelkie informacje dotyczące przetwarzania danych osobowych powinny być zwięzłe, przejrzyste, zrozumiałe i łatwo dostępne. RODO mówi o prostym i zrozumiałym języku. 
 
-## Who to inform and when?
+## Kogo i kiedy informować?
 
-* Data subjects must be informed:
+* Podmioty danych (osoby, których dane dotyczą) musza być poinformowane o:
 
     * both **in the case of direct data collection** i.e. when data are collected directly from individuals (examples: form, online purchase, subscription of a contract, opening of a bank account) or when they are collected via devices or technologies for observing the activity of individuals (examples: analysis of Internet navigation, geolocation and Wi-Fi analytics/tracking for audience measurement, etc.) ;
 
