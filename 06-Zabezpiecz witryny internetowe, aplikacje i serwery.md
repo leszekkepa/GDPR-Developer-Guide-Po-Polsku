@@ -1,14 +1,14 @@
-# Sheet n°6: Secure your websites, applications and servers
+# Sheet n°6: Zabezpiecz strony internetowe, aplikacje oraz serwery 
 
-#### Any website, application or server must incorporate basic state-of-the-art security rules, not only on network communications but also on authentication and infrastructure.
+#### Zasady bezpieczeństwa "zgodne ze sztuką" należy zastosować do wszystkich stron internetowych, webaplikacji oraz serwerów, nie tylko na poziomie komunikacji sieciowej, ale też w odniesieniu do uwierzytelnienia czy komponentów infrastuktury.
 
-## Securing communication networks
+## Bezpieczeństwo komunikacji
 
-* **Implement TLS version 1.2 or 1.3** (replacing SSL) on all websites and for data transmissions of your mobile applications, for example with [LetsEncrypt](https://letsencrypt.org/fr/), using only the most recent versions and checking its correct implementation.
+* **Zastosuj TLS w wersji 1.2 or 1.3** ("zamiennik" SSL-a) w przypadku wszystkich stron internetowych i w przypadku wymiany danych z aplikacjami mobilnymi. Można skorzystać z darmowych certyfikatów [LetsEncrypt](https://letsencrypt.org/). Należy pamiętać, aby sprawdzić, czy zostały prawidłowo zainstalowane. 
 
-* **Make the use of TLS mandatory** for all pages of your site and for your mobile applications.
+* **TLS obowiązkowe** w każdym przypadku i w całości dla aplikacji i witryn. 
 
-* **Limit the communication ports** strictly necessary for the proper functioning of the installed applications. If access to a web server is only possible using the HTTPS protocol, only ports 443 and 80 of this server must be accessible, all other ports can be blocked by the firewall.
+* **Ogranicz porty** jedynie do tego, co potrzebne do funkcjonowania aplikacji. If access to a web server is only possible using the HTTPS protocol, only ports 443 and 80 of this server must be accessible, all other ports can be blocked by the firewall.
 
 * **The OWASP has published on its website some cheatsheets** for exemple to [correctly implement TLS](https://cheatsheetseries.owasp.org/cheatsheets/Transport_Layer_Protection_Cheat_Sheet.html) or to [secure a webservice](https://cheatsheetseries.owasp.org/cheatsheets/Web_Service_Security_Cheat_Sheet.html).
 
